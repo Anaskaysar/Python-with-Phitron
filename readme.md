@@ -24,4 +24,4 @@
   - Easy to Learn
   - Widely used in software Industry
 
-My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
+My Leetcode profile: [kaysarulanas](https://leetcode.com/kaysarulanas01/)
