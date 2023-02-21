@@ -18,6 +18,10 @@
   - Data Analysis
   - Computer Vision
   - Web Scrapping
-- [x] Applications of Python
+- [x] Why we need python?
+  - Beginer Friendly
+  - Human readable
+  - Easy to Learn
+  - Widely used in software Industry
 
 My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
