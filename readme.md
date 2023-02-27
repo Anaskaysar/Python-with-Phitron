@@ -1,6 +1,6 @@
 ## Python Guideline Series- By Young Coders: Learn Programing (Group)
 
-## Day 1
+## Day 01
 
 - [x] What is Python?
 
@@ -23,5 +23,9 @@
   - Human readable
   - Easy to Learn
   - Widely used in software Industry
+
+## Day 03
+
+- Problem 1
 
 My Leetcode profile: [kaysarulanas](https://leetcode.com/kaysarulanas01/)
