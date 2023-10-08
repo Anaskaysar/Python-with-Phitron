@@ -1,0 +1,6 @@
+highest = max(45,100,12,12,1233,2232,34423)
+highest_in_array = max([45,100,12,12,1233,2232,34423 ])
+lowest_in_array = min([45,100,12,12,1233,2232,34423 ])
+print(highest)
+print(highest_in_array)
+print(lowest_in_array)
